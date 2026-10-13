@@ -11,7 +11,7 @@ Building resilient, high-performance distributed systems, autonomous developer a
 - 🎨 **[IdeaBoard](https://ideaboard.art)**: Spatial visual AI atelier delivering non-destructive image lineage, multi-provider model routing (`GenerationContract`), atomic PostgreSQL 17 task persistence, and sub-second SSE streaming via NATS JetStream.
 - ⚡ **[Universal-AI-Gateway](https://github.com/Ericsunsk/Universal-AI-Gateway)**: Protocol-agnostic AI Gateway running on Cloudflare Workers with dynamic multi-upstream failover, cooldown backoff, and protocol translation.
 - 🛡️ **[nodewarden](https://github.com/Ericsunsk/nodewarden)**: Lightweight Bitwarden-compatible password vault engine hosted serverlessly on Cloudflare Workers & D1/KV.
-- 🤖 **Agentic Engineering Workflows**: Crafting terminal-native autonomous agent suites (Claude Code, Codex, Antigravity) governed by `/grill-me` requirement dissection, living ADRs, and MCP servers (Context7, CodeGraph, Codebase-Memory).
+- 🤖 **Agentic Engineering Workflows**: Crafting terminal-native autonomous agent suites (Claude Code, Codex, Antigravity) governed by spec-first requirement dissection, living ADRs, and MCP servers (Context7, CodeGraph, Codebase-Memory).
 
 ---
 
