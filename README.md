@@ -35,5 +35,4 @@ Protocols & Standards:  Model Context Protocol (MCP), SSE, WebSockets, REST, Gra
 ### 🌐 Connect With Me
 - 🌍 **Website & Blog**: [ericsun.cc](https://ericsun.cc)
 - 🚀 **Flagship Production**: [ideaboard.art](https://ideaboard.art)
-- 💼 **LinkedIn**: [linkedin.com/in/shikang-sun](https://www.linkedin.com/in/shikang-sun/)
 - 📬 **Email**: [sun670133899@gmail.com](mailto:sun670133899@gmail.com)
